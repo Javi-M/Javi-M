@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image]({https://github-readme-stats.vercel.app/api?username={username}})
+<img src="https://github-readme-stats.vercel.app/api?username=Javi-M&show_icons=true&count_private=true&theme=dark">
 
 <!--
 **Javi-M/Javi-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
